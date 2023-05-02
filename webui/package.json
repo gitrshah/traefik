@@ -16,7 +16,7 @@
     "build:nc": "yarn build"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
+    "@quasar/extras": "^1.16.2",
     "axios": "^0.21.3",
     "bowser": "^2.5.2",
     "chart.js": "^2.9.4",
